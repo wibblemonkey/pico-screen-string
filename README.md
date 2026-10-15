@@ -56,7 +56,7 @@ You'll need the following:
 
 ### Windows
 
-I mostly use Windows, so that meand VS Code and the
+I mostly use Windows, so that means VS Code and the
 [Raspberry Pi Pico VS Code Extension](https://marketplace.visualstudio.com/items?itemName=raspberry-pi.raspberry-pi-pico).
 
 Once you've cloned the repository, you'll need to get the [ZXO]() submodule:
